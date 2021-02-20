@@ -1,0 +1,6 @@
+Flask
+tensorflow
+tensorflow-hub
+Pillow
+
+
